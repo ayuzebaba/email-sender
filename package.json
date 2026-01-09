@@ -1,0 +1,23 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayuzebaba/email-sender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayuzebaba/email-sender/issues"
+  },
+  "homepage": "https://github.com/ayuzebaba/email-sender#readme",
+  "description": "",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6"
+  }
+}
